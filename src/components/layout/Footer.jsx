@@ -21,7 +21,7 @@ const Footer = () => (
           </p>
           <div className="flex gap-3">
             {["Compare Rates", "State Guides", "Coverage FAQ"].map(t => (
-              <a key={t} href="#" className="text-[#22c55e] text-xs font-semibold hover:text-green-400 transition-colors">{t} →</a>
+              <div className="text-[#22c55e] text-xs font-semibold hover:text-green-400 transition-colors">{t} →</div>
             ))}
           </div>
         </div>
