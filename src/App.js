@@ -29,6 +29,8 @@ import FullCoverageCostBreakdown from "./pages/FullCoverageCostBreakdown";
 import CheapCarInsuranceCalifornia from "./pages/CheapCarInsuranceCalifornia";
 import LowestInsuranceRatesNearMe from "./pages/LowestInsuranceRatesNearMe";
 import CheapAutoInsuranceFast from "./pages/CheapAutoInsuranceFast";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import TermsOfUse from "./pages/TermsOfUse.jsx";
 
 function HomePage() {
   useSmoothScrollReveal();
@@ -108,6 +110,8 @@ function App() {
           <Route path="/cheap-car-insurance-california" element={<CheapCarInsuranceCalifornia />} />
           <Route path="/lowest-insurance-rates-near-me" element={<LowestInsuranceRatesNearMe />} />
           <Route path="/cheap-auto-insurance-fast" element={<CheapAutoInsuranceFast />} />
+          <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+          <Route path="/terms-of-use" element={<TermsOfUse />} />
         </Routes>
         <Footer />
       </div>

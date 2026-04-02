@@ -6,10 +6,8 @@ const Footer = () => (
       <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-12">
         <div className="col-span-1 md:col-span-2">
           <div className="flex items-center gap-2.5 mb-5">
-            <div className="w-8 h-8 bg-[#22c55e] rounded-lg flex items-center justify-center">
-              <svg className="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-              </svg>
+            <div className="flex items-center">
+              <img src="/favicon.svg" alt="InsureComparePro" className="h-8 w-8" />
             </div>
             <div>
               <span className="text-white font-extrabold text-base">InsureCompare<span className="text-[#22c55e]">Pro</span></span>
@@ -64,9 +62,12 @@ const Footer = () => (
           <strong className="text-slate-400">Advertiser Disclosure & Disclaimer:</strong> InsureComparePro is not a licensed insurance company or insurance agent. This site is an independent comparison resource providing educational content only. Some links on this site may be affiliate links - we may earn a commission at no extra cost to you. Rates shown are national averages for illustration only and do not constitute a binding quote. Actual rates depend on your specific profile, state, and coverage choices. Always verify rates and coverage directly with licensed insurance providers. Last updated January 2026.
         </p>
         <div className="flex flex-wrap gap-5 text-xs text-slate-500">
-          {["Privacy Policy", "Terms of Use", "Advertiser Disclosure", "Accessibility Statement", "Sitemap"].map(l => (
-            <div className="hover:text-slate-300 transition-colors">{l}</div>
-          ))}
+<div className="flex flex-wrap gap-5">
+  <ul className="flex flex-wrap gap-5 text-slate-400 text-sm">
+    <li><a href="/privacy-policy" className="hover:text-white transition-colors hover:pl-1">Privacy Policy</a></li>
+    <li><a href="/terms-of-use" className="hover:text-white transition-colors hover:pl-1">Terms of Use</a></li>
+  </ul>
+</div>
           <span className="md:ml-auto text-slate-600">© 2026 InsureComparePro. All rights reserved.</span>
         </div>
       </div>
