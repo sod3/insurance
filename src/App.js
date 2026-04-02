@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
-import SidebarAd from "./components/layout/SidebarAd";
+// import SidebarAd from "./components/layout/SidebarAd";
 import Ad from "./components/common/Ad";
 import HeroSection from "./components/sections/HeroSection";
 import CompareSection from "./components/sections/CompareSection";

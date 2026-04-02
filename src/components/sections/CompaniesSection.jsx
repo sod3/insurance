@@ -27,7 +27,7 @@ const CompaniesSection = () => {
           {companies.map(c => <CompanyCard key={c.name} {...c} />)}
         </div>
         <div className="mt-10 p-5 bg-blue-50 border border-blue-100 rounded-2xl text-sm text-slate-600 text-center reveal">
-          📊 <strong>Methodology:</strong> Rankings use J.D. Power 2025 Auto Insurance Study, NAIC complaint index, AM Best financial ratings, and verified user reviews. Updated monthly. <a href="#" className="text-blue-600 underline ml-1">Learn more about our methodology →</a>
+          📊 <strong>Methodology:</strong> Rankings use J.D. Power 2025 Auto Insurance Study, NAIC complaint index, AM Best financial ratings, and verified user reviews. Updated monthly. <div className="text-blue-600 underline ml-1">Learn more about our methodology →</div>
         </div>
       </div>
     </section>

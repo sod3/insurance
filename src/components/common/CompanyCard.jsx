@@ -38,12 +38,12 @@ const CompanyCard = ({ name, logo, rating, avgAnnual, highlight, badge, pros }) 
       </ul>
     )}
     <div className="flex gap-2 mt-auto pt-2">
-      <a href="#" rel="nofollow sponsored" className="flex-1 block text-center bg-[#0f172a] hover:bg-[#22c55e] text-white text-sm font-bold py-2.5 rounded-xl transition-all">
+      <div className="flex-1 block text-center bg-[#0f172a] hover:bg-[#22c55e] text-white text-sm font-bold py-2.5 rounded-xl transition-all">
         View Best Plans
-      </a>
-      <a href="#" rel="nofollow sponsored" className="flex-1 block text-center border border-slate-200 hover:border-[#22c55e] text-slate-600 hover:text-[#22c55e] text-sm font-semibold py-2.5 rounded-xl transition-all">
+      </div>
+      <div className="flex-1 block text-center border border-slate-200 hover:border-[#22c55e] text-slate-600 hover:text-[#22c55e] text-sm font-semibold py-2.5 rounded-xl transition-all">
         Check Rates
-      </a>
+      </div>
     </div>
   </div>
 );

@@ -1,5 +1,5 @@
 import React from "react";
-import Ad from "../components/common/Ad";
+// import Ad from "../components/common/Ad";
 import AffBtn from "../components/common/AffBtn";
 import InternalLinks from "../components/common/InternalLinks";
 

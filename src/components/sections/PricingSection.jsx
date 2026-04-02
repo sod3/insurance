@@ -62,9 +62,9 @@ const PricingSection = () => {
                   </li>
                 ))}
               </ul>
-              <a href="#" rel="nofollow sponsored" className={`block text-center font-bold text-sm py-3 rounded-xl transition-all ${t.btnStyle}`}>
+              <div className={`block text-center font-bold text-sm py-3 rounded-xl transition-all ${t.btnStyle}`}>
                 Compare {t.label} Quotes
-              </a>
+              </div>
             </div>
           ))}
         </div>
