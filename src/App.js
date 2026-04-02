@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 // import SidebarAd from "./components/layout/SidebarAd";
-import Ad from "./components/common/Ad";
+// import Ad from "./components/common/Ad";
 import HeroSection from "./components/sections/HeroSection";
 import CompareSection from "./components/sections/CompareSection";
 import CompaniesSection from "./components/sections/CompaniesSection";

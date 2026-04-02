@@ -65,7 +65,7 @@ const Footer = () => (
         </p>
         <div className="flex flex-wrap gap-5 text-xs text-slate-500">
           {["Privacy Policy", "Terms of Use", "Advertiser Disclosure", "Accessibility Statement", "Sitemap"].map(l => (
-            <a key={l} href="#" className="hover:text-slate-300 transition-colors">{l}</a>
+            <div className="hover:text-slate-300 transition-colors">{l}</div>
           ))}
           <span className="md:ml-auto text-slate-600">© 2026 InsureComparePro. All rights reserved.</span>
         </div>
