@@ -10,7 +10,7 @@ const TermsOfUse = () => {
       <section className="relative bg-[#0f172a] py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-black text-white mb-4">
-            Terms of Use for InsureWise
+            Terms of Use for InsureComparePro
           </h1>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">
             Last Updated: January 2026
@@ -26,7 +26,7 @@ const TermsOfUse = () => {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="prose prose-lg max-w-none">
             <p className="text-slate-600 leading-relaxed">
-              Welcome to InsureWise. By accessing and using our website, you agree to comply with and be bound by the following Terms of Use. Please read these terms carefully before using our website. If you do not agree with any part of these terms, you should not use InsureWise.
+              Welcome to InsureComparePro. By accessing and using our website, you agree to comply with and be bound by the following Terms of Use. Please read these terms carefully before using our website. If you do not agree with any part of these terms, you should not use InsureComparePro.
             </p>
           </div>
           <div className="mt-8">
@@ -43,7 +43,7 @@ const TermsOfUse = () => {
           </h2>
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              InsureWise is an informational website that provides content related to insurance, including comparisons, guides, and general information. The content on this website is intended for educational and informational purposes only and should not be considered professional or financial advice.
+              InsureComparePro is an informational website that provides content related to insurance, including comparisons, guides, and general information. The content on this website is intended for educational and informational purposes only and should not be considered professional or financial advice.
             </p>
             <p className="text-slate-600 mt-4">
               By using this website, you confirm that you are at least 13 years old and agree to these Terms of Use.
@@ -65,7 +65,7 @@ const TermsOfUse = () => {
           <div className="space-y-6">
             <div className="p-6 bg-slate-50 rounded-xl">
               <p className="text-slate-600">
-                You agree to use InsureWise only for lawful purposes and in a way that does not infringe the rights of others or restrict their use of the website.
+                You agree to use InsureComparePro only for lawful purposes and in a way that does not infringe the rights of others or restrict their use of the website.
               </p>
               <p className="text-slate-600 font-semibold mt-4">You agree NOT to:</p>
               <ul className="list-disc list-inside text-slate-600 mt-2 space-y-1 ml-4">
@@ -95,7 +95,7 @@ const TermsOfUse = () => {
           
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              All content on InsureWise, including text, graphics, logos, and design elements, is the property of InsureWise unless otherwise stated.
+              All content on InsureComparePro, including text, graphics, logos, and design elements, is the property of InsureComparePro unless otherwise stated.
             </p>
             <p className="text-slate-600 font-semibold mt-4">You may:</p>
             <ul className="list-disc list-inside text-slate-600 mt-2 space-y-1 ml-4">
@@ -126,7 +126,7 @@ const TermsOfUse = () => {
           
           <div className="p-6 bg-slate-50 rounded-xl">
             <p className="text-slate-600">
-              The information provided on InsureWise is for general informational purposes only.
+              The information provided on InsureComparePro is for general informational purposes only.
             </p>
             <p className="text-slate-600 font-semibold mt-4">Important Notes:</p>
             <ul className="list-disc list-inside text-slate-600 mt-2 space-y-1 ml-4">
@@ -150,7 +150,7 @@ const TermsOfUse = () => {
           
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              All content on InsureWise, including guides on car insurance quotes, full coverage insurance, and liability insurance cost, is intended for informational purposes only.
+              All content on InsureComparePro, including guides on car insurance quotes, full coverage insurance, and liability insurance cost, is intended for informational purposes only.
             </p>
             <p className="text-slate-600 mt-4">
               It should not be considered:
@@ -179,7 +179,7 @@ const TermsOfUse = () => {
           </h2>
           <div className="bg-slate-50 p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              InsureWise may contain links to third-party websites for additional information or comparison purposes.
+              InsureComparePro may contain links to third-party websites for additional information or comparison purposes.
             </p>
             <p className="text-slate-600 font-semibold mt-4">Please Note:</p>
             <ul className="list-disc list-inside text-slate-600 mt-2 space-y-1 ml-4">
@@ -202,7 +202,7 @@ const TermsOfUse = () => {
           </h2>
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              InsureWise displays advertisements through Google AdSense and other third-party advertising partners.
+              InsureComparePro displays advertisements through Google AdSense and other third-party advertising partners.
             </p>
             <p className="text-slate-600 font-semibold mt-4">Important Information:</p>
             <ul className="list-disc list-inside text-slate-600 mt-2 space-y-1 ml-4">
@@ -225,7 +225,7 @@ const TermsOfUse = () => {
           </h2>
           <div className="bg-slate-50 p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              To the fullest extent permitted by law, InsureWise shall not be held liable for any direct, indirect, incidental, or consequential damages arising from:
+              To the fullest extent permitted by law, InsureComparePro shall not be held liable for any direct, indirect, incidental, or consequential damages arising from:
             </p>
             <ul className="list-disc list-inside text-slate-600 mt-3 space-y-1 ml-4">
               <li>Use or inability to use the website</li>
@@ -248,7 +248,7 @@ const TermsOfUse = () => {
           </h2>
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              You agree to defend, indemnify, and hold harmless InsureWise from any claims, damages, or expenses arising from:
+              You agree to defend, indemnify, and hold harmless InsureComparePro from any claims, damages, or expenses arising from:
             </p>
             <ul className="list-disc list-inside text-slate-600 mt-3 space-y-1 ml-4">
               <li>Your use of the website</li>
@@ -267,7 +267,7 @@ const TermsOfUse = () => {
           </h2>
           <div className="bg-slate-50 p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              InsureWise reserves the right to update or modify these Terms of Use at any time without prior notice.
+              InsureComparePro reserves the right to update or modify these Terms of Use at any time without prior notice.
             </p>
             <p className="text-slate-600 font-semibold mt-4">What This Means:</p>
             <ul className="list-disc list-inside text-slate-600 mt-2 space-y-1 ml-4">
@@ -289,7 +289,7 @@ const TermsOfUse = () => {
           </h2>
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              We reserve the right to suspend or terminate access to InsureWise at our discretion, without notice, for any violation of these Terms of Use.
+              We reserve the right to suspend or terminate access to InsureComparePro at our discretion, without notice, for any violation of these Terms of Use.
             </p>
           </div>
         </div>

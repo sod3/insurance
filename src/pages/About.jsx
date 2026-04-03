@@ -26,10 +26,10 @@ const About = () => {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="prose prose-lg max-w-none">
             <p className="text-slate-600 leading-relaxed">
-              InsureWise is an informational insurance website designed to help users make smarter, more confident decisions when choosing car insurance. Whether you're searching for car insurance quotes, comparing providers, or trying to understand coverage options, our goal is to simplify the process.
+              InsureComparePro is an informational insurance website designed to help users make smarter, more confident decisions when choosing car insurance. Whether you're searching for car insurance quotes, comparing providers, or trying to understand coverage options, our goal is to simplify the process.
             </p>
             <p className="text-slate-600 leading-relaxed mt-4">
-              We understand that insurance can often feel complex and overwhelming, especially with so many options available in the USA. That's why InsureWise focuses on clear, easy-to-understand content that breaks down key topics like coverage types, pricing, and provider comparisons. Our platform is built to guide you with reliable information so you can explore your options and choose what works best for your needs and budget.
+              We understand that insurance can often feel complex and overwhelming, especially with so many options available in the USA. That's why InsureComparePro focuses on clear, easy-to-understand content that breaks down key topics like coverage types, pricing, and provider comparisons. Our platform is built to guide you with reliable information so you can explore your options and choose what works best for your needs and budget.
             </p>
           </div>
           <div className="mt-8">
@@ -46,7 +46,7 @@ const About = () => {
           </h2>
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              Our mission at InsureWise is simple: to help users find the right insurance solutions through clear, unbiased, and informative content.
+              Our mission at InsureComparePro is simple: to help users find the right insurance solutions through clear, unbiased, and informative content.
             </p>
             <p className="text-slate-600 font-semibold mt-4">We aim to:</p>
             <ul className="list-disc list-inside text-slate-600 mt-2 space-y-1 ml-4">
@@ -154,7 +154,7 @@ const About = () => {
           
           <div className="p-6 bg-slate-50 rounded-xl">
             <p className="text-slate-600">
-              InsureWise is monetized through Google AdSense, which means you may see advertisements displayed on our pages.
+              InsureComparePro is monetized through Google AdSense, which means you may see advertisements displayed on our pages.
             </p>
             <ul className="list-disc list-inside text-slate-600 mt-3 space-y-1 ml-4">
               <li>These ads are provided by third-party vendors, including Google</li>
@@ -177,7 +177,7 @@ const About = () => {
           
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100 space-y-4">
             <p className="text-slate-600">
-              We understand that trust is essential when it comes to financial and insurance-related information. At InsureWise, we are committed to maintaining that trust through:
+              We understand that trust is essential when it comes to financial and insurance-related information. At InsureComparePro, we are committed to maintaining that trust through:
             </p>
             <ul className="list-disc list-inside text-slate-600 space-y-1 ml-4">
               <li><span className="font-semibold">Accuracy:</span> We strive to provide correct and up-to-date information</li>
@@ -217,7 +217,7 @@ const About = () => {
             </div>
           </div>
           <p className="text-slate-400 mt-8 text-sm">
-            At InsureWise, our goal is to make insurance easier to understand—so you can make confident, informed decisions every step of the way.
+            At InsureComparePro, our goal is to make insurance easier to understand-so you can make confident, informed decisions every step of the way.
           </p>
           <div className="mt-8">
             {/* <Ad type="leaderboard" label="Advertisement" slot="privacy-footer" /> */}

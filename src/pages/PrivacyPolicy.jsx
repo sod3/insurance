@@ -10,7 +10,7 @@ const PrivacyPolicy = () => {
       <section className="relative bg-[#0f172a] py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-black text-white mb-4">
-            Privacy Policy for InsureWise
+            Privacy Policy for InsureComparePro
           </h1>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">
             Last Updated: January 2026
@@ -26,7 +26,7 @@ const PrivacyPolicy = () => {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="prose prose-lg max-w-none">
             <p className="text-slate-600 leading-relaxed">
-              At InsureWise, we value your privacy and are committed to protecting your personal information. This Privacy Policy document outlines the types of information that are collected and recorded by InsureWise and how we use it.
+              At InsureComparePro, we value your privacy and are committed to protecting your personal information. This Privacy Policy document outlines the types of information that are collected and recorded by InsureComparePro and how we use it.
             </p>
             <p className="text-slate-600 leading-relaxed mt-4">
               This policy applies to our website and is intended for a global audience, including users in the United States. By using our website, you consent to the practices described in this Privacy Policy.
@@ -46,7 +46,7 @@ const PrivacyPolicy = () => {
           </h2>
           <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              InsureWise is an informational insurance website that provides content, comparisons, and insights related to car insurance and related topics. We do not require user accounts or collect sensitive personal information directly.
+              InsureComparePro is an informational insurance website that provides content, comparisons, and insights related to car insurance and related topics. We do not require user accounts or collect sensitive personal information directly.
             </p>
             <p className="text-slate-600 mt-4">
               However, like most websites, we may collect certain non-personal data automatically to improve user experience and support advertising through Google AdSense.
@@ -69,7 +69,7 @@ const PrivacyPolicy = () => {
             <div className="p-6 bg-slate-50 rounded-xl">
               <h3 className="text-xl font-semibold mb-3">Log Files</h3>
               <p className="text-slate-600">
-                InsureWise follows a standard procedure of using log files. These files log visitors when they visit websites. The information collected may include:
+                InsureComparePro follows a standard procedure of using log files. These files log visitors when they visit websites. The information collected may include:
               </p>
               <ul className="list-disc list-inside text-slate-600 mt-2 space-y-1 ml-4">
                 <li>Internet Protocol (IP) addresses</li>
@@ -212,7 +212,7 @@ const PrivacyPolicy = () => {
           </h2>
           <div className="bg-slate-50 p-6 rounded-xl shadow-sm border border-slate-100">
             <p className="text-slate-600">
-              InsureWise's Privacy Policy does not apply to other advertisers or websites.
+              InsureComparePro's Privacy Policy does not apply to other advertisers or websites.
             </p>
             <p className="text-slate-600 mt-4">
               We may include links to third-party websites for informational or comparison purposes. We advise you to review the respective Privacy Policies of these third-party sites for more detailed information about their practices and how to opt out of certain options.
@@ -256,7 +256,7 @@ const PrivacyPolicy = () => {
               Protecting children's privacy is important to us.
             </p>
             <p className="text-slate-600 mt-4">
-              InsureWise does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you believe that your child has provided such information on our website, please contact us immediately, and we will promptly remove such information from our records.
+              InsureComparePro does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you believe that your child has provided such information on our website, please contact us immediately, and we will promptly remove such information from our records.
             </p>
           </div>
         </div>
@@ -311,7 +311,7 @@ const PrivacyPolicy = () => {
             </div>
           </div>
           <p className="text-slate-400 mt-6 text-sm">
-            Your privacy is important to us, and we are committed to maintaining transparency and trust while you use InsureWise.
+            Your privacy is important to us, and we are committed to maintaining transparency and trust while you use InsureComparePro.
           </p>
           <div className="mt-8">
             {/* <Ad type="leaderboard" label="Advertisement" slot="privacy-footer" /> */}
