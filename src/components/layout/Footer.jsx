@@ -66,6 +66,7 @@ const Footer = () => (
   <ul className="flex flex-wrap gap-5 text-slate-400 text-sm">
     <li><a href="/privacy-policy" className="hover:text-white transition-colors hover:pl-1">Privacy Policy</a></li>
     <li><a href="/terms-of-use" className="hover:text-white transition-colors hover:pl-1">Terms of Use</a></li>
+    <li><a href="/about" className="hover:text-white transition-colors hover:pl-1">About Us</a></li>
   </ul>
 </div>
           <span className="md:ml-auto text-slate-600">© 2026 InsureComparePro. All rights reserved.</span>

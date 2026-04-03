@@ -31,6 +31,7 @@ import LowestInsuranceRatesNearMe from "./pages/LowestInsuranceRatesNearMe";
 import CheapAutoInsuranceFast from "./pages/CheapAutoInsuranceFast";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfUse from "./pages/TermsOfUse.jsx";
+import About from "./pages/About.jsx";
 
 function HomePage() {
   useSmoothScrollReveal();
@@ -112,6 +113,7 @@ function App() {
           <Route path="/cheap-auto-insurance-fast" element={<CheapAutoInsuranceFast />} />
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/terms-of-use" element={<TermsOfUse />} />
+          <Route path="/about" element={<About />} />
         </Routes>
         <Footer />
       </div>
