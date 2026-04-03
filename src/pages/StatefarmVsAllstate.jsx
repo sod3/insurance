@@ -17,7 +17,7 @@ const StatefarmVsAllstate = () => {
 
       <section className="py-12 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-slate-600">If you're trying to find cheap car insurance, reduce your liability insurance cost, or simply compare insurance rates, understanding the differences between these two insurers is essential. Each company has its own strengths—State Farm is known for affordability and local agent support, while Allstate stands out for comprehensive coverage options and digital tools. In this guide, we'll break down pricing, coverage, discounts, and customer experience so you can confidently choose the right provider and get instant car insurance rates tailored to your needs.</p>
+          <p className="text-slate-600">If you're trying to find cheap car insurance, reduce your liability insurance cost, or simply compare insurance rates, understanding the differences between these two insurers is essential. Each company has its own strengths-State Farm is known for affordability and local agent support, while Allstate stands out for comprehensive coverage options and digital tools. In this guide, we'll break down pricing, coverage, discounts, and customer experience so you can confidently choose the right provider and get instant car insurance rates tailored to your needs.</p>
           {/* <div className="mt-8"><Ad type="rectangle" label="Advertisement" slot="after-intro" /></div> */}
         </div>
       </section>

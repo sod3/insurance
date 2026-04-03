@@ -56,7 +56,7 @@ const CheapCarInsuranceYoungDrivers = () => {
       <section className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl md:text-3xl font-bold text-[#0f172a] mb-4 text-center">How to Get Cheap Car Insurance for Young Drivers</h2>
-          <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">Getting cheap car insurance isn't about choosing the lowest price—it's about finding the best value. Smart decisions can help young drivers save hundreds each year.</p>
+          <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">Getting cheap car insurance isn't about choosing the lowest price-it's about finding the best value. Smart decisions can help young drivers save hundreds each year.</p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
             <div className="bg-slate-50 p-6 rounded-xl">
@@ -176,7 +176,7 @@ const CheapCarInsuranceYoungDrivers = () => {
           
           <div className="bg-slate-50 p-6 rounded-xl">
             <h3 className="font-bold text-lg mb-3">Smart Strategy:</h3>
-            <p className="text-slate-600">Focus on improving the factors you can control—like driving safely and choosing the right car—to lower your car insurance quotes in the future.</p>
+            <p className="text-slate-600">Focus on improving the factors you can control-like driving safely and choosing the right car-to lower your car insurance quotes in the future.</p>
           </div>
           
           <h2 className="text-2xl font-bold mt-8 mb-6">How to Compare Car Insurance Quotes Online</h2>

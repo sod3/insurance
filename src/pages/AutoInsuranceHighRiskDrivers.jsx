@@ -9,7 +9,7 @@ const AutoInsuranceHighRiskDrivers = () => {
       <section className="relative bg-[#0f172a] py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-black text-white mb-4">Auto Insurance for High-Risk Drivers (2026 Guide)</h1>
-          <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">Finding auto insurance for high-risk drivers can be challenging, but it's far from impossible. If you've had accidents, traffic violations, a DUI, or a lapse in coverage, insurers may classify you as high-risk—leading to higher premiums. However, many auto insurance providers specialize in offering flexible policies for drivers in this category.</p>
+          <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">Finding auto insurance for high-risk drivers can be challenging, but it's far from impossible. If you've had accidents, traffic violations, a DUI, or a lapse in coverage, insurers may classify you as high-risk-leading to higher premiums. However, many auto insurance providers specialize in offering flexible policies for drivers in this category.</p>
           <AffBtn label="Get Covered Today →" size="lg" />
           {/* <div className="mt-8"><Ad type="leaderboard" label="Advertisement" slot="top-banner" /></div> */}
         </div>
@@ -42,7 +42,7 @@ const AutoInsuranceHighRiskDrivers = () => {
             </div>
             <div className="bg-white p-6 rounded-2xl shadow-md">
               <h3 className="font-bold text-xl mb-4">What This Means for You:</h3>
-              <p className="text-slate-600">Being labeled high-risk doesn't mean you can't find affordable coverage—it just means you need to be more strategic when comparing car insurance quotes.</p>
+              <p className="text-slate-600">Being labeled high-risk doesn't mean you can't find affordable coverage-it just means you need to be more strategic when comparing car insurance quotes.</p>
             </div>
           </div>
           {/* <div className="mt-8"><Ad type="inline" label="Advertisement" slot="inside-content" /></div> */}
@@ -215,7 +215,7 @@ const AutoInsuranceHighRiskDrivers = () => {
               <li>Access to better coverage options</li>
               <li>Eligibility for discounts</li>
             </ul>
-            <p className="text-slate-600 mt-3">Consistency is key—most insurers reassess your profile every 3–5 years.</p>
+            <p className="text-slate-600 mt-3">Consistency is key-most insurers reassess your profile every 3–5 years.</p>
           </div>
           
           {/* <div className="mt-8"><Ad type="rectangle" label="Advertisement" slot="before-faq" /></div> */}

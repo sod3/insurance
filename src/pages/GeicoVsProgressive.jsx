@@ -17,7 +17,7 @@ const GeicoVsProgressive = () => {
 
       <section className="py-12 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-slate-600">However, the right choice depends on your individual needs—whether you want cheap car insurance, better full coverage insurance, or the lowest liability insurance cost. In this guide, we'll break down the differences, compare features, and help you decide which provider is better for you in 2026. If you're ready to compare insurance rates and get instant car insurance rates, this detailed comparison will guide your decision.</p>
+          <p className="text-slate-600">However, the right choice depends on your individual needs-whether you want cheap car insurance, better full coverage insurance, or the lowest liability insurance cost. In this guide, we'll break down the differences, compare features, and help you decide which provider is better for you in 2026. If you're ready to compare insurance rates and get instant car insurance rates, this detailed comparison will guide your decision.</p>
           {/* <div className="mt-8"><Ad type="rectangle" label="Advertisement" slot="after-intro" /></div> */}
         </div>
       </section>

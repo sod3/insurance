@@ -9,7 +9,7 @@ const FullCoverageInsuranceProviders = () => {
       <section className="relative bg-[#0f172a] py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-black text-white mb-4">Find the Best Full Coverage for You (2026 Guide)</h1>
-          <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">Finding the right full coverage insurance can make a significant difference in how well you're protected on the road—and how much you pay each month. If you're looking to find the best full coverage for you, it's important to understand what's included, how to compare insurance rates, and which auto insurance providers offer the most value in 2026.</p>
+          <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">Finding the right full coverage insurance can make a significant difference in how well you're protected on the road-and how much you pay each month. If you're looking to find the best full coverage for you, it's important to understand what's included, how to compare insurance rates, and which auto insurance providers offer the most value in 2026.</p>
           <AffBtn label="Compare Full Coverage →" size="lg" />
           {/* <div className="mt-8"><Ad type="leaderboard" label="Advertisement" slot="top-banner" /></div> */}
         </div>
@@ -17,7 +17,7 @@ const FullCoverageInsuranceProviders = () => {
 
       <section className="py-12 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-slate-600">Whether you live in Texas, California, Florida, or anywhere else in the USA, drivers are increasingly choosing full coverage policies for added peace of mind. From accidents to theft and natural disasters, full coverage insurance provides broader protection than basic policies. In this guide, you'll learn how to evaluate your options, get car insurance quotes, and secure the best policy tailored to your needs—all while saving money.</p>
+          <p className="text-slate-600">Whether you live in Texas, California, Florida, or anywhere else in the USA, drivers are increasingly choosing full coverage policies for added peace of mind. From accidents to theft and natural disasters, full coverage insurance provides broader protection than basic policies. In this guide, you'll learn how to evaluate your options, get car insurance quotes, and secure the best policy tailored to your needs-all while saving money.</p>
           {/* <div className="mt-8"><Ad type="rectangle" label="Advertisement" slot="after-intro" /></div> */}
         </div>
       </section>
@@ -283,7 +283,7 @@ const FullCoverageInsuranceProviders = () => {
       <section className="py-12 bg-white">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-2xl font-bold mb-6">Final Thoughts</h2>
-          <p className="text-slate-600 mb-6">When you find the best full coverage for you, you're not just buying insurance—you're investing in protection and peace of mind. By understanding your options, comparing providers, and using smart strategies, you can secure the right coverage at the best price.</p>
+          <p className="text-slate-600 mb-6">When you find the best full coverage for you, you're not just buying insurance-you're investing in protection and peace of mind. By understanding your options, comparing providers, and using smart strategies, you can secure the right coverage at the best price.</p>
           <p className="text-slate-700 font-semibold">Compare quotes online, save on full coverage insurance, and get instant car insurance rates from top providers today.</p>
         </div>
       </section>

@@ -9,7 +9,7 @@ const BestCarInsuranceUSA = () => {
       <section className="relative bg-[#0f172a] py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-black text-white mb-4">Best Car Insurance in the USA 2026</h1>
-          <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">Finding the best car insurance in the USA (2026) is more important than ever as rates, coverage options, and providers continue to evolve. Whether you're looking for cheap car insurance, full coverage insurance, or simply want to compare insurance rates, choosing the right policy can save you hundreds—or even thousands—of dollars each year.</p>
+          <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">Finding the best car insurance in the USA (2026) is more important than ever as rates, coverage options, and providers continue to evolve. Whether you're looking for cheap car insurance, full coverage insurance, or simply want to compare insurance rates, choosing the right policy can save you hundreds-or even thousands-of dollars each year.</p>
           <AffBtn label="Compare Texas Rates →" size="lg" />
           {/* <div className="mt-8"><Ad type="leaderboard" label="Advertisement" slot="top-banner" /></div> */}
         </div>

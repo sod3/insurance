@@ -17,7 +17,7 @@ const CarInsuranceCostUSA = () => {
 
       <section className="py-12 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-slate-600">With dozens of auto insurance providers offering different rates, policies, and discounts, the best way to find value is to compare insurance rates and request multiple car insurance quotes. Costs can vary significantly depending on where you live—drivers in Texas, California, and Florida often see different pricing due to regional risks and regulations. In this guide, we'll break down average costs, key factors, and practical tips to help you lower your premium and get instant car insurance rates that fit your budget.</p>
+          <p className="text-slate-600">With dozens of auto insurance providers offering different rates, policies, and discounts, the best way to find value is to compare insurance rates and request multiple car insurance quotes. Costs can vary significantly depending on where you live-drivers in Texas, California, and Florida often see different pricing due to regional risks and regulations. In this guide, we'll break down average costs, key factors, and practical tips to help you lower your premium and get instant car insurance rates that fit your budget.</p>
           {/* <div className="mt-8"><Ad type="rectangle" label="Advertisement" slot="after-intro" /></div> */}
         </div>
       </section>

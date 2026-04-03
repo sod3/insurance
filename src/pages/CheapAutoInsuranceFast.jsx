@@ -17,7 +17,7 @@ const CheapAutoInsuranceFast = () => {
 
       <section className="py-12 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-slate-600">Drivers across the USA—from Texas to California—are increasingly using online platforms to compare insurance rates and secure affordable policies. Whether you're looking for full coverage insurance or want to minimize your liability insurance cost, the key is speed combined with smart comparison. In this guide, you'll learn how to get insured quickly, save money, and choose from the best insurance companies offering reliable and flexible plans.</p>
+          <p className="text-slate-600">Drivers across the USA-from Texas to California-are increasingly using online platforms to compare insurance rates and secure affordable policies. Whether you're looking for full coverage insurance or want to minimize your liability insurance cost, the key is speed combined with smart comparison. In this guide, you'll learn how to get insured quickly, save money, and choose from the best insurance companies offering reliable and flexible plans.</p>
           {/* <div className="mt-8"><Ad type="rectangle" label="Advertisement" slot="after-intro" /></div> */}
         </div>
       </section>
@@ -58,7 +58,7 @@ const CheapAutoInsuranceFast = () => {
       <section className="py-12 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-8">Compare Insurance Rates for Maximum Savings</h2>
-          <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">If you want cheap car insurance, comparing rates is not optional—it's necessary. Prices can vary significantly between insurers, even for the same driver profile.</p>
+          <p className="text-slate-600 text-center max-w-3xl mx-auto mb-8">If you want cheap car insurance, comparing rates is not optional-it's necessary. Prices can vary significantly between insurers, even for the same driver profile.</p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
             <div className="bg-slate-50 p-6 rounded-xl">

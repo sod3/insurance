@@ -17,7 +17,7 @@ const LowestInsuranceRatesNearMe = () => {
 
       <section className="py-12 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-slate-600">Today, many drivers in the USA—especially in states like Texas, California, and Florida—use online tools to compare insurance rates instantly. This not only helps you identify the most affordable options but also ensures you get the right coverage, such as full coverage insurance or minimum liability insurance cost. In this guide, you'll learn how to find the best deals, compare top providers, and reduce your premiums effectively.</p>
+          <p className="text-slate-600">Today, many drivers in the USA-especially in states like Texas, California, and Florida-use online tools to compare insurance rates instantly. This not only helps you identify the most affordable options but also ensures you get the right coverage, such as full coverage insurance or minimum liability insurance cost. In this guide, you'll learn how to find the best deals, compare top providers, and reduce your premiums effectively.</p>
           {/* <div className="mt-8"><Ad type="rectangle" label="Advertisement" slot="after-intro" /></div> */}
         </div>
       </section>
@@ -97,7 +97,7 @@ const LowestInsuranceRatesNearMe = () => {
           </div>
           
           <div className="bg-slate-100 p-4 rounded-xl">
-            <p className="text-slate-700">Comparing all these factors ensures you're not just getting the cheapest option—but the best value overall.</p>
+            <p className="text-slate-700">Comparing all these factors ensures you're not just getting the cheapest option-but the best value overall.</p>
           </div>
         </div>
       </section>
@@ -170,7 +170,7 @@ const LowestInsuranceRatesNearMe = () => {
           </div>
           
           <div className="bg-slate-100 p-4 rounded-xl">
-            <p className="text-slate-700">Many insurers also offer mobile apps where you can manage policies, file claims, and get instant support—making it easier than ever to stay covered.</p>
+            <p className="text-slate-700">Many insurers also offer mobile apps where you can manage policies, file claims, and get instant support-making it easier than ever to stay covered.</p>
           </div>
         </div>
       </section>
@@ -194,7 +194,7 @@ const LowestInsuranceRatesNearMe = () => {
             </div>
             <div className="bg-white p-6 rounded-xl">
               <h3 className="font-bold text-xl mb-4">Key Insight:</h3>
-              <p className="text-slate-600">Additionally, regularly reviewing your policy ensures you're not overpaying. As your situation changes—such as paying off your car—you may qualify for lower rates.</p>
+              <p className="text-slate-600">Additionally, regularly reviewing your policy ensures you're not overpaying. As your situation changes-such as paying off your car-you may qualify for lower rates.</p>
             </div>
           </div>
         </div>

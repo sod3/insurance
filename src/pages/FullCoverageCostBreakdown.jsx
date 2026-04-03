@@ -9,7 +9,7 @@ const FullCoverageCostBreakdown = () => {
       <section className="relative bg-[#0f172a] py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-black text-white mb-4">Full Coverage Insurance Cost Breakdown (2026 Guide)</h1>
-          <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">Understanding the full coverage insurance cost breakdown is essential if you want to make informed decisions and avoid overpaying for your policy. While full coverage insurance offers the highest level of protection, it also comes with higher premiums compared to basic policies. That's why it's important to know exactly what you're paying for—and how to reduce those costs.</p>
+          <p className="text-slate-400 text-lg max-w-2xl mx-auto mb-8">Understanding the full coverage insurance cost breakdown is essential if you want to make informed decisions and avoid overpaying for your policy. While full coverage insurance offers the highest level of protection, it also comes with higher premiums compared to basic policies. That's why it's important to know exactly what you're paying for-and how to reduce those costs.</p>
           <AffBtn label="Compare Full Coverage →" size="lg" />
           {/* <div className="mt-8"><Ad type="leaderboard" label="Advertisement" slot="top-banner" /></div> */}
         </div>
@@ -17,7 +17,7 @@ const FullCoverageCostBreakdown = () => {
 
       <section className="py-12 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <p className="text-slate-600">Whether you're looking for cheap car insurance, trying to lower your liability insurance cost, or planning to compare insurance rates from top auto insurance providers, this guide will help you break down every component of your premium. Drivers across the USA—including Texas, California, and Florida—can benefit from understanding how pricing works. Let's explore what goes into full coverage insurance, how costs are calculated, and how you can get instant car insurance rates that fit your budget.</p>
+          <p className="text-slate-600">Whether you're looking for cheap car insurance, trying to lower your liability insurance cost, or planning to compare insurance rates from top auto insurance providers, this guide will help you break down every component of your premium. Drivers across the USA-including Texas, California, and Florida-can benefit from understanding how pricing works. Let's explore what goes into full coverage insurance, how costs are calculated, and how you can get instant car insurance rates that fit your budget.</p>
           {/* <div className="mt-8"><Ad type="rectangle" label="Advertisement" slot="after-intro" /></div> */}
         </div>
       </section>
